@@ -1,0 +1,13 @@
+
+
+.friendlist {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin-left: 125px;
+}
+
+.frienditem {
+    display: flex;
+    gap: 20px;
+}
